@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**MohammadArbaj-78/MohammadArbaj-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 Hi, I'm Mohammad Arbaj
+Software enthusiast • Python programmer • Learner
+
+🔧 Skills
+- Python (OOP, Web scraping, Automation)
+- Git & GitHub
+- Basic HTML/CSS
+- CLI tools
+
+🧰 Projects
+ 1. Simple Bank App
+- Description: Console based persistent bank (deposit/withdraw/pin).
+  coming soon
+  
+ 2. Typing Trainer
+- Description: Keyboard practice charts and exercises.
+
+ 🎯 Learning Goals
+- Master advanced Python (async, decorators)
+- Build 3 real-world projects in 2025
+
+ 📫 Contact
+- Email: arbajmansuri@gmail.com
+
