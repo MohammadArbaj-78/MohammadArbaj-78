@@ -12,12 +12,18 @@ Software enthusiast • Python programmer • Learner
 - CLI tools
 
 🧰 Projects
- 1. Simple Bank App
+
+https://github.com/MohammadArbaj-78/Unit-Converter-Python
+# 👋 Hi, I'm Mohammad Arbaj
+
+## 🚀 My Python Projects
+
+## 🏦 Bank Management System  
 - Description: Console based persistent bank (deposit/withdraw/pin).
-  coming soon
-  
- 2. Typing Trainer
-- Description: Keyboard practice charts and exercises.
+👉 [Project Link](https://github.com/MohammadArbaj-78/python-bank-system)
+
+## 📏 Unit Converter  
+👉 [Project Link](https://github.com/MohammadArbaj-78/Unit-Converter)
 
  🎯 Learning Goals
 - Master advanced Python (async, decorators)
