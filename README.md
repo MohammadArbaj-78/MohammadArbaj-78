@@ -2,16 +2,16 @@
 
 
 
-##👋 Hi, I'm Mohammad Arbaj
+## 👋 Hi, I'm Mohammad Arbaj
 Software enthusiast • Python programmer • Learner
 
-##🔧 Skills
+## 🔧 Skills
 - Python (OOP, Web scraping, Automation)
 - Git & GitHub
 - Basic HTML/CSS
 - CLI tools
 
-##🧰 Projects
+## 🧰 Projects
 
 ## 🏦 Bank Management System  
 - Description: Console based persistent bank (deposit/withdraw/pin).
@@ -21,7 +21,7 @@ Software enthusiast • Python programmer • Learner
 - Description: A simple tool to convert units like length, weight, temperature, and more.
 👉 [Project Link](https://github.com/MohammadArbaj-78/Unit-Converter-Python)
 
- ##🎯 Learning Goals
+ ## 🎯 Learning Goals
 - Master advanced Python (async, decorators)
 - Build 3 real-world projects in 2025
 
