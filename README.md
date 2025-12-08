@@ -23,7 +23,8 @@ https://github.com/MohammadArbaj-78/Unit-Converter-Python
 👉 [Project Link](https://github.com/MohammadArbaj-78/python-bank-system)
 
 ## 📏 Unit Converter  
-👉 [Project Link](https://github.com/MohammadArbaj-78/Unit-Converter)
+- Description: A simple tool to convert units like length, weight, temperature, and more.
+👉 [Project Link](https://github.com/MohammadArbaj-78/Unit-Converter-Python)
 
  🎯 Learning Goals
 - Master advanced Python (async, decorators)
