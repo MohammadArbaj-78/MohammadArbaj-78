@@ -2,29 +2,40 @@
 
 
 
-## 👋 Hi, I'm Mohammad Arbaj
-Software enthusiast • Python programmer • Learner
+# Hi, I'm Mohammad Arbaj | Web Scraping & Data Automation Expert 🚀
 
-## 🔧 Skills
-- Python (OOP, Web scraping, Automation)
-- Git & GitHub
-- Basic HTML/CSS
-- CLI tools
+I build high-performance data scrapers that extract valuable insights from the most challenging websites. From B2B Lead Generation to E-commerce Market Research, I automate everything.
 
-## 🧰 Projects
+### 🛠 My Specialized Tech Stack:
+- **Languages:** Python (Mastery in OOP & Automation)
+- **Scraping Tools:** Selenium, Undetected-Chromedriver, BeautifulSoup4, Requests.
+- **Stealth Techniques:** Proxy Rotation (ScraperAPI), Human Behavior Mimicry, User-Agent Switching, Anti-Bot Bypass.
+- **Data Science:** Pandas (Data Cleaning & Structuring), JSON/CSV/Excel Export.
 
-## 🏦 Bank Management System  
-- Description: Console based persistent bank (deposit/withdraw/pin).
-👉 [Project Link](https://github.com/MohammadArbaj-78/python-bank-system)
+### 🧰 Featured Automation Projects:
 
-## 📏 Unit Converter  
-- Description: A simple tool to convert units like length, weight, temperature, and more.
-👉 [Project Link](https://github.com/MohammadArbaj-78/Unit-Converter-Python)
+#### 📍 Google Maps & JustDial Lead Generation Engine
+- Extracts verified business data (Name, Phone, Address, Website) by mimicking human scrolling.
+- Bypasses complex JSX-based dynamic class loading.
 
- ## 🎯 Learning Goals
-- Master advanced Python (async, decorators)
-- Build 3 real-world projects in 2025
+#### 🛒 Flipkart Big-Data Pipeline
+- Scrapes 500+ products across multiple pages using pagination logic.
+- Implements a 2-step pipeline: Raw HTML capture followed by high-speed parsing.
 
-## 📫 Contact
-- Email: arbajmansuri@gmail.com
+#### 📈 Yahoo Finance Stealth Scraper
+- Real-time stock data extraction using rotating proxies and session handling.
+- Designed to remain undetected by financial-grade bot security.
+
+#### 💼 Naukri.com Job Market Miner
+- Advanced Selenium script with random mouse movements and window resizing to avoid detection.
+- Automates the collection of job titles and company reviews into structured CSVs.
+
+### 🎯 2025 Goals:
+- Scale scrapers to handle Millions of data points using Asynchronous Python.
+- Build Cloud-based automated data pipelines.
+
+### 📫 Let's Talk Data:
+- **Email:** arbajmanasuri82@gmail.com
+- **LinkedIn:** [Your LinkedIn Link]
+
 
